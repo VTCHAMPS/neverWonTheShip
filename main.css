@@ -16,6 +16,6 @@ body {background-image: url('https://wallpapercave.com/wp/wp7601263.jpg'); backg
 
 .team-name,
 .years {font-size: 1.1rem;font-weight: bold;}
-.team-name span {font-size: .8rem;font-weight: normal;}
+.team-name span {font-size: .8rem;font-weight: normal; display: block;}
 
 @media (max-width: 768px) {.team-name span{display:block;}}
