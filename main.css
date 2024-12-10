@@ -4,7 +4,7 @@
 .row {margin-left: 0 !important; margin-right: 0 !important;}
 
 
-.main-container {background-image: url('https://wallpapercave.com/wp/wp7601263.jpg'); background-repeat: no-repeat;  background-size: cover;}
+body {background-image: url('https://wallpapercave.com/wp/wp7601263.jpg'); background-repeat: no-repeat;  background-size: cover;}
 
 
 .teams-container { background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8));}
